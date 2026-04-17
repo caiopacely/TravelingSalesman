@@ -22,14 +22,11 @@ Comparar estratégias de construção de soluções
 Visualizar o comportamento do algoritmo
 Trabalhar com listas encadeadas circulares
 
-```
 🧩 Estrutura do Projeto
+```
 t4-tsp/
 ├── dados/                       # Arquivos de entrada
 │   ├── tsp10.txt               # Base para testes
-│   ├── tsp10-nearest.txt       # Saída esperada (Nearest)
-│   ├── tsp10-smallest.txt      # Saída esperada (Smallest)
-│   ├── tsp10-optimal.txt       # Solução ótima (referência)
 │   └── usa13509.txt            # Entrada oficial (13k cidades)
 └── src/                        # Código-fonte
     ├── Main.java               # Execução do programa
