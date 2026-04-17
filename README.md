@@ -23,7 +23,7 @@ Visualizar o comportamento do algoritmo
 Trabalhar com listas encadeadas circulares
 
 🧩 Estrutura do Projeto
-```
+
 t4-tsp/
 ├── dados/                       # Arquivos de entrada
 │   ├── tsp10.txt               # Base para testes
