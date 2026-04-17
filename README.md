@@ -1,15 +1,18 @@
 🚚 Problema do Caixeiro Viajante (TSP) com Heurísticas de Inserção
 ```
-modelagem e construção de rotas aproximadas para o Problema do Caixeiro Viajante, através da implementação de heurísticas de inserção utilizando estruturas de dados e algoritmos clássicos em Java.
+Modelagem e construção de rotas aproximadas para o Problema do Caixeiro Viajante, através da implementação de
+heurísticas de inserção utilizando estruturas de dados e algoritmos clássicos em Java.
 
 Apresentação
 🔗 
 
 ##📌 Sobre o Projeto
 
-O programa resolve o Problema do Caixeiro Viajante (TSP), onde um conjunto de cidades deve ser percorrido com a menor distância possível.
+O programa resolve o Problema do Caixeiro Viajante (TSP), onde um conjunto de cidades deve ser percorrido com a menor
+distância possível.
 
-Como a solução ótima é computacionalmente custosa, o projeto utiliza heurísticas de inserção para construir soluções aproximadas.
+Como a solução ótima é computacionalmente custosa, o projeto utiliza heurísticas de inserção para construir
+soluções aproximadas.
 
 🔹 Vértices: representam cidades no plano cartesiano (x, y)
 🔹 Arestas: representam a distância entre cidades
